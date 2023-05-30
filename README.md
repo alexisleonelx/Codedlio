@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My PortFolio](https://github.com/Codedlio)
 
-- 🌱 I’m currently learning **TypeScript, Python, Angular and Docker**
+- 🌱 I’m currently learning **Figma, Python, Angular and Docker**
 
 - 👯 I also finished an E-commerce [HotelRes](https://github.com/Codedlio)
 
