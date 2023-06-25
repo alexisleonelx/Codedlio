@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Figma, Python, Angular and Docker**
 
-- 👯 I also finished an E-commerce [HotelRes](https://github.com/Codedlio)
+- 👯 I also finished Reservation App [Eterno](https://hotel-reservation-14qq.vercel.app)
 
 - 🤝 And my own Single Page App [OriGame](https://pi-codedlio-videogames.vercel.app/)
 
