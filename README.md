@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My PortFolio](https://github.com/Codedlio)
 
-- 🌱 I’m currently learning **Figma, Python, Angular and Docker**
+- 🌱 I’m currently learning **Figma, PHP, NET and Docker**
 
 - 👯 I also finished Reservation App [Eterno](https://hotel-reservation-14qq.vercel.app)
 
